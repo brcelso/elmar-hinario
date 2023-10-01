@@ -40,10 +40,10 @@ export const docsConfig: DocsConfig = {
   ],
   sidebarNav: [
     {
-      title: "Getting Started",
+      title: "Hinário",
       items: [
         {
-          title: "Introduction",
+          title: "Ordem do Culto Principal I",
           href: "/docs",
           items: [],
         },
